@@ -1,6 +1,6 @@
 # Linear-Optimization
 
-Linear Optimization solver is written from scratch using the Simplex Algorithm. 
+ 
 
 The Formulation for the problem is provided in the report.
 
